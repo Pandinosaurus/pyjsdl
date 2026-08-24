@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 
-#Pyjsdl - Copyright (C) 2013
-#Released under the MIT License
+#Copyright (c) 2013 - MIT License
 
 """
 Pyjsdl App
