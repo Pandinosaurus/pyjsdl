@@ -329,9 +329,9 @@ class Canvas(Surface):
             self.run()
         else:
             self._frametime += timestamp - self._rendertime
-            if self._frametime > self._framerate:
+            if self._frametime >= self._framerate:
                 self.run()
-                self._frametime = 0
+                self._frametime -= self._framerate
         self._rendertime = timestamp
 
     def render(self):
