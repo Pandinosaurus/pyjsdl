@@ -1,5 +1,3 @@
-#Copyright (c) 2013 - MIT License
-
 """
 **Mask module**
 

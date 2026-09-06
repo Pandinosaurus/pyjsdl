@@ -1,5 +1,3 @@
-#Copyright (c) 2013 - MIT License
-
 from pyjsdl import __version__
 
 

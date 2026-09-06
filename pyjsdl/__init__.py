@@ -1,5 +1,5 @@
 #Pyjsdl - Python-to-JavaScript Multimedia Framework
-#Copyright (c) 2013 James Garnon
+#Copyright (c) 2011, 2013 James Garnon
 #Licensed under the MIT License
 #See LICENSE.txt for full license text
 
